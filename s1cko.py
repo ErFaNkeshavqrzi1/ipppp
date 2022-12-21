@@ -3,7 +3,7 @@
 import requests
 import subprocess
 import socket
-init()
+
 
 
 
